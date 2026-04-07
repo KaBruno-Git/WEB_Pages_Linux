@@ -19,7 +19,7 @@ if(!isset($_SESSION['Logado'])){
       <h2>Welcome to system</h2>
       <nav>
         <a href="lscpu.php">CPU Information</a>
-        <a href="lsusb.php">USB List</a>
+        <a href="usb.php">USB List</a>
         <a href="ip.php">IP Information</a>
         <a href="systemctl.php">System Information</a>
         <a href="networkctl.php">Network Information</a>
